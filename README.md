@@ -1,6 +1,6 @@
 # MM-Tag
 This is an implementation of MM-Tag which is a MCTS enhanced MDP model. More detail can be seen at https://arxiv.org/abs/1804.10911
-The dataset we used are CoNLL2003 (Name Entity Recognition)
+The dataset we used is CoNLL2003 (Name Entity Recognition)
 
 cnn-lstm: MM-Tag with char feature.
 new-value: MM-Tag with new implementation of value network. 
