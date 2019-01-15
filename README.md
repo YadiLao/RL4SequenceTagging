@@ -8,6 +8,8 @@ policy-gradient: the policy-gradient model under the same MDP setting for sequen
 
 Evaluation metric:
 Entity Level F1 score. note that in MM-Tag, label level F1 is our reward.
+The training process between step and reward/loss is shown by:
+![Alt text](./new_value/train_fig.png?raw=true "training process")
 
 Useage:
 
